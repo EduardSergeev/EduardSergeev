@@ -12,6 +12,10 @@
     <img alt="VSCode:Haskutil" src="https://img.shields.io/visual-studio-marketplace/i/Edka.haskutil?logo=visualstudiocode&label=Haskutil&color=%230071bc&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DEdka.haskutil">
   </a>
 
+  <a href="https://github.com/marketplace/actions/set-project-version">
+    <img alt="project-version-action on GitHub Marketplace" src="https://img.shields.io/github/v/release/EduardSergeev/project-version-action?logo=github&label=project-version&link=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fset-project-version">
+  </a>
+
   <a href="https://stackoverflow.com/users/394253/edka">
     <img alt="StackOverflow:Ed'ka" src="https://img.shields.io/stackexchange/stackoverflow/r/394253?logo=stackoverflow&label=Ed'ka&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F394253%2Fedka">
   </a>
